@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1610367677 source:c:\users\janki\desktop\programowanie\gra\main.cpp
+	"Gra.h"
+
+1610369671 c:\users\janki\desktop\programowanie\gra\gra.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1610630218 source:c:\users\damia\onedrive\pulpit\programowanie\gra\main.cpp
+	"Gra.h"
+
+1610654881 c:\users\damia\onedrive\pulpit\programowanie\gra\gra.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+

@@ -1,9 +1,13 @@
-#include <iostream>
-#include "GameC.h"
-
-using namespace std;
+#include "Gra.h"
 
 int main()
 {
+    srand(time(NULL));
+    menu();
 
+    while(!player_dead)
+    {
+        gra();
+    }
+    return 0;
 }

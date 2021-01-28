@@ -32,8 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="GameC.cpp" />
-		<Unit filename="GameC.h" />
+		<Unit filename="Gra.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
